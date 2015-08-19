@@ -1,0 +1,7 @@
+<html>
+	<head>
+		<meta http-equiv="Refresh" content="0; url=https://500-server-error.labs.coop/" />
+		<title>500 Server Error</title></head>
+	</head>
+</html>
+
